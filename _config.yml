@@ -1,5 +1,5 @@
 # basic configuration
-baseurl: /course-in-a-box
+baseurl: /ablaufarten
 markdown: kramdown
 permalink: /:categories/:title/
 
